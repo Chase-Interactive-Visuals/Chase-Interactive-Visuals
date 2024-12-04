@@ -1,8 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Brendan! <br/><a href="https://github.com/Chase-Interactive-Visuals">Software Engineer</a>, <a href="https://www.linkedin.com/in/brendankchase/">XR Developer</a>, <a href="https://marinecomplete.com/">Founder</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Full Stack SaaS Product (Unity, .NET, PostgreSQL)</b>
+  - [Marine Complete App](https://apps.microsoft.com/detail/9msv2043mlzr?hl=en-US&gl=US)
+  - [Marine Complete Website](https://marinecomplete.com/)
+- <b>Full Stack Web App (Unity, AWS, PlayFAB)</b>
+  - [3D Dock Designer](https://goldenboatlifts.com/dock-designer/)
+- <b>Mobile App(Unity, .NET, PlayFAB, iOS)</b>
+  - [Santa Cam AR](https://apps.apple.com/us/app/santa-cam-ar/id1660414262)
+
+
+<h2>STEM / Educational Software Development</h2>
+
+- [Florida Gulf Coast University - Viper Lab](https://github.com/Chase-Interactive-Visuals/FGCU-Viper-Lab/tree/main)
+- [Hurricane Simulator](https://github.com/Chase-Interactive-Visuals/Hurricane-Simulator-VR/tree/main)
+
+
 
 <!--
-**Chase-Interactive-Visuals/Chase-Interactive-Visuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
