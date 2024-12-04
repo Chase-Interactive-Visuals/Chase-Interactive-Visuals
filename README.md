@@ -9,6 +9,9 @@
   - [3D Dock Designer](https://goldenboatlifts.com/dock-designer/)
 - <b>Mobile App(Unity, .NET, PlayFAB, iOS)</b>
   - [Santa Cam AR](https://apps.apple.com/us/app/santa-cam-ar/id1660414262)
+- <b>Complete VR Product Showroom | Private Client Software (Unity, .NET, PlayFAB, Quest 2/3)</b>
+- <b>Managed Codebase(.NET, Angular, SQL, AWS)</b>
+  - [Veryon | Aviation Management](https://veryon.com/)
 
 
 <h2>STEM / Educational Software Development</h2>
