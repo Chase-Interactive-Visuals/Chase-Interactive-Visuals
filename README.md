@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>XR Product Catalog (Unity, .NET, SolidWorks)</b>
+  - [Product Demo Board](https://www.youtube.com/watch?v=pcTn28UWFzE)
+  - [Company Page]([https://marinecomplete.com/](https://www.clickbond.com/virtual-display))
 - <b>Full Stack SaaS Product (Unity, .NET, PostgreSQL)</b>
   - [Marine Complete App](https://apps.microsoft.com/detail/9msv2043mlzr?hl=en-US&gl=US)
   - [Marine Complete Website](https://marinecomplete.com/)
